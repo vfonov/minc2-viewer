@@ -1,0 +1,23 @@
+*~
+INSTALL
+*.o
+*.lo
+*.la
+Makefile
+.deps
+.dirstamp
+.libs
+aclocal.m4
+autom4te.cache/
+configure
+config.h
+config.log
+config.status
+libtool
+stamp-h1
+volume_io/Testing/example_modify
+volume_io/Testing/example_tags
+volume_io/Testing/example_volume_io
+# vscode specific
+build
+.vscode
